@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Notes_app_authentication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/voilet</item>
+         <item name="colorPrimaryVariant">@color/voilet</item>
+         <item name="android:statusBarColor">@color/voilet</item>
+
+    </style>
+
+    <style name="Theme.Notes_app_authentication" parent="Base.Theme.Notes_app_authentication" />
+</resources>
